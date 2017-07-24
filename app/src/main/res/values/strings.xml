@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="Unknown">Unknown</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+
+</resources>
